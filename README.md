@@ -60,15 +60,11 @@ Reviewed previously installed Windows updates and verified successful security p
 
 ## 3. Advanced Options
 
-Reviewed advanced Windows Update configuration including notifications, active hours, recovery, and delivery settings.
-
 ![Advanced Options](screenshots/03-advanced-options.png)
 
 ---
 
 ## 4. Optional Updates
-
-Reviewed available driver updates and optional Windows updates.
 
 ![Optional Updates](screenshots/04-optional-updates.png)
 
@@ -76,22 +72,11 @@ Reviewed available driver updates and optional Windows updates.
 
 ## 5. Delivery Optimization
 
-Verified Delivery Optimization settings for Windows Update downloads and bandwidth management.
-
 ![Delivery Optimization](screenshots/05-delivery-optimization.png)
 
 ---
 
 ## 6. Recovery Options
-
-Reviewed Windows Recovery features available for repairing or resetting Windows.
-
-Features reviewed:
-
-- Reset this PC
-- Advanced Startup
-- Recovery Options
-- Windows Update Repair
 
 ![Recovery Options](screenshots/06-recovery-options.png)
 
@@ -99,28 +84,13 @@ Features reviewed:
 
 ## 7. Other Troubleshooters
 
-Reviewed built-in Windows troubleshooters available for diagnosing common system issues.
-
-Examples include:
-
-- Audio
-- Network & Internet
-- Windows Update
-- Bluetooth
-- Camera
-- Video Playback
-- Printer
-
 ![Other Troubleshooters](screenshots/07-other-troubleshooters.png)
 
 ---
 
 ## 8. Storage Management
 
-Reviewed Storage Sense, available storage space, cleanup recommendations, and storage management settings.
-
 ![Storage Management](screenshots/08-storage-management.png)
-
 ---
 
 ## Tasks Completed
