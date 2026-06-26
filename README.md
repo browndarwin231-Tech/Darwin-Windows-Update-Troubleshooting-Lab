@@ -60,8 +60,7 @@ Reviewed previously installed Windows updates and verified successful security p
 
 ## 3. Advanced Options
 
-![Advanced Options](screenshots/03-advanced-options.png)
-
+![Advanced Options](screenshots/03-advance-options.png)
 ---
 
 ## 4. Optional Updates
