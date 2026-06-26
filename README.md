@@ -46,7 +46,7 @@ This project demonstrates common Windows Update administration and troubleshooti
 
 Verified Windows Update status and confirmed the operating system is receiving updates correctly.
 
-![Windows Update Home](screenshots/01-windows-update-home.png)
+![Windows Update Home](screenshots/01-window-update-home.png)
 
 ---
 
@@ -55,12 +55,12 @@ Verified Windows Update status and confirmed the operating system is receiving u
 Reviewed previously installed Windows updates and verified successful security patches.
 
 ![Update History](screenshots/02-update-history.png)
-
 ---
 
 ## 3. Advanced Options
 
 ![Advanced Options](screenshots/03-advance-options.png)
+
 ---
 
 ## 4. Optional Updates
